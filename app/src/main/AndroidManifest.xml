@@ -3,6 +3,7 @@
 
     <application
         android:label="لعبة المحيبس (عباس كريم)"
+     android:icon="@drawable/icon"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
 
